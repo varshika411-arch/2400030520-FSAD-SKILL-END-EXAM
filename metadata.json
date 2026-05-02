@@ -1,0 +1,6 @@
+{
+  "name": "Delivery Management System",
+  "description": "Spring Boot JPA Delivery management with POST and PUT operations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
